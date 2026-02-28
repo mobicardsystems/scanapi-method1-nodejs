@@ -1,5 +1,6 @@
 # Payment Card Scan API
-## MobiCard ScanAPI - NodeJs
+## MobiCard ScanAPI - Method 1
+### NodeJS
 
 First, generate a JWT token and request for an access token (CURL). This is a one-time call per scan session.
 
